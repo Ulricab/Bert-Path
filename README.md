@@ -28,7 +28,7 @@ python main.py
 ```
 
 #### 2. Fine-tune Basic GNN Unit
-To fine-tune the Basic BERT Unit, use: 
+To fine-tune the Basic GNN Unit, use: 
 
 ```shell
 cd basic_gnn_unit/
