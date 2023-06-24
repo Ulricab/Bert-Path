@@ -1,6 +1,8 @@
 # Bert-Path
 the source code of paper "Integration of Multiple Terminology Bases Integration of Multiple Terminology Bases: A Multi-View Alignment Method Using The Hierarchical Structure"
 
+Further improvements will be made after publication.
+
 ### Dependencies
 
 - Python 3
@@ -44,7 +46,7 @@ bash run.sh
 
 - `data/medical_base/icd10_icd11`: We provide a processed dataset of ICD-10 and ICD-11, formatted in the same manner as the standard DBP15K dataset. The "path" files in this dataset were obtained through the code in the "get_her_path" directory. This dataset has been fully processed and is ready for use in experimentation.
 
-note: Due to copyright reasons, we may not be able to provide data related to SNOMED-CT. However, we can provide the respective websites for the original files, as follows:
+Note: Due to copyright reasons, we may not be able to provide data related to SNOMED-CT. However, we can provide the respective websites for the original files, as follows:
 ICD-10: https://icd.who.int/browse10/2019/en
 ICD-11: https://icd.who.int/browse11/l-m/en 
 SNOMED-CT: https://www.nlm.nih.gov/research/umls/mapping_projects.
